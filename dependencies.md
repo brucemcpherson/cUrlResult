@@ -1,5 +1,5 @@
 # Google Apps Script Project: cUrlResult
-This repo (cUrlResult) was automatically updated on 31 October 2018 11:40:03 GMT by GasGit
+This repo (cUrlResult) was automatically updated on 09 July 2020 12:29:38 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cUrlResult
@@ -15,13 +15,13 @@ appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|17|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|88|no|[here](libraries/cUseful "library source")
+cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|18|no|[here](libraries/cCacheHandler "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|117|no|[here](libraries/cUseful "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|17|no|[here](libraries/cCacheHandler "library source")
-cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|32|no|[here](libraries/cUseful "library source")
+cCacheHandler| cCacheHandler|1U6j9t_3ONTbhTCvhjwANMcEXeHXr4shgzTG0ZrRnDYLcFl3_IH2b2eAY|18|no|[here](libraries/cCacheHandler "library source")
+cUseful| cUseful|1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex|117|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ### Scopes required
