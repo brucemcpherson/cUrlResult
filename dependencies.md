@@ -1,5 +1,5 @@
 # Google Apps Script Project: cUrlResult
-This repo (cUrlResult) was automatically updated on 09 July 2020 12:29:38 BST by GasGit
+This repo (cUrlResult) was automatically updated on 09/07/2020, 17:38:25 by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cUrlResult
